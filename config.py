@@ -6,7 +6,7 @@
 ## AWS Access Key ID
 
 ## AWS Secret Access Key
-AWS_ACCESS_SECRET_KEY = 'UpUbsQANRHLf2uuQ7QOlNXPbbtV5fmseW/GgT5D/'
+AWS_ACCESS_SECRET_KEY = ''
 
 ## AWS MWS Auth Token
 MWS_AUTH_TOKEN = 'amzn.mws.f90f3ce6-9b5a-26a7-9a87-4ff8052be2ec'
