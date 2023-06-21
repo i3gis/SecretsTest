@@ -4,7 +4,6 @@
 
 # AWS
 ## AWS Access Key ID
-AWS_ACCESS_KEY_ID = 'AKIAIWSXFHRM7F6Z3NWQ'
 
 ## AWS Secret Access Key
 AWS_ACCESS_SECRET_KEY = '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'
@@ -96,7 +95,6 @@ MAILGUN_API_KEY = 'key-LPxoYCANGEFkAMHBur4jTjbZ69ngpdbI'
 
 # AWS
 ## AWS Access Key ID
-VAR_1 = 'AKIAIWSXFHRM7F6Z3NWQ'
 
 ## AWS Secret Access Key
 VAR_2 = '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'
